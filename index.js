@@ -6,7 +6,10 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts() {
-  var facts = ["While on tour, he enjoyed playing Monopoly", "Harmonica was the firs instrument Lennon learned to play"];
+  var facts = ["He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
+  "He was a choir boy and boy scout",
+  "He hated the sound of his own voice"];
   var array = [];
   var i = 0;
 
